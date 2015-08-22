@@ -15,8 +15,10 @@ iOS 5+
 
 
 ## Installation
-Add `pod ‘BTBadgeView’` to your Podfile or drag class files into your project.
+Add `pod 'BTBadgeView', :git => 'https://github.com/Tulakshana/BTBadgeView.git'` to your Podfile or drag class files into your project.
 
+## IB_DESIGNABLE
+This gives trouble if you integrate using cocoapods. However it gives trouble only when static libraries are used. Have `use_frameworks!` in your pod files to build frameworks instead of static libraries for your dependencies. If you want to use IB_DESIGNABLE integrate `pod 'BTBadgeView'`.
 
 ## Properties
 	@property (nonatomic,copy) NSString *value;
