@@ -10,29 +10,29 @@
 	<string>BTBadgeView Sample App</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BDF4840D-A84A-441F-BCC6-61707C52387B</key>
-		<string>https://github.com/borut-t/BTBadgeView.git</string>
+		<key>D53C7597E295D62D9A861642976A6F729A34394C</key>
+		<string>https://github.com/Tulakshana/BTBadgeView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Sample App/BTBadgeView Sample App.xcodeproj/project.xcworkspace</string>
+	<string>Sample App/BTBadgeView Sample App.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BDF4840D-A84A-441F-BCC6-61707C52387B</key>
+		<key>D53C7597E295D62D9A861642976A6F729A34394C</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/borut-t/BTBadgeView.git</string>
+	<string>https://github.com/Tulakshana/BTBadgeView.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BDF4840D-A84A-441F-BCC6-61707C52387B</string>
+	<string>D53C7597E295D62D9A861642976A6F729A34394C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BDF4840D-A84A-441F-BCC6-61707C52387B</string>
+			<string>D53C7597E295D62D9A861642976A6F729A34394C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>BTBadgeView</string>
 		</dict>

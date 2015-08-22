@@ -31,7 +31,7 @@
 //
 
 #import <UIKit/UIKit.h>
-IB_DESIGNABLE
+//IB_DESIGNABLE
 @interface BTBadgeView : UIView
 
 /** The current value displayed in the badge. Updating the value will update the view's display. */
